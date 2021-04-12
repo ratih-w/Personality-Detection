@@ -1,6 +1,8 @@
 # Personality-Detection
 Deteksi Kepribadian dengan menggunakan Convolutional Neural Network dan Word2Vec pada Pengguna Twitter Berbahasa Indonesia
 
+Search.ipynb digunakan untuk mencari pengguna berdasarkan tipe kepribadaian
+
 Get_Data.ipynb digunakan untuk mengumpulkan data yang digunakan dalam pelatihan model
 
 Pre_Processing.ipynb digunakan untuk mempersiapkan data agar dapat digunakan dalam pelatihan model
